@@ -30,8 +30,6 @@ I enjoy technical side projects that explore **how theory becomes real hardware*
 - FPGA development environments inspired by ASIC workflows
 - Physics-driven art & engineering builds
 
-(Selected projects are pinned below 👇)
-
 ---
 
 ### 🔗 Find Me
@@ -40,9 +38,3 @@ I enjoy technical side projects that explore **how theory becomes real hardware*
 - 🌐 GitHub (personal): https://github.com/ColtonKoop
 - 🌐 GitHub (work): https://github.com/coltonko-intel  
 - 📧 Email: coltonkoop@gmail.com  
-
----
-
-<p align="center">
-  Built with curiosity, rigor, and a love for well-designed hardware.
-</p>
