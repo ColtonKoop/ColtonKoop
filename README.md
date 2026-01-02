@@ -2,13 +2,6 @@
 <img width="3168" height="792" alt="ColtonKoop_LinkedInBanner" src="https://github.com/user-attachments/assets/45bae42c-4100-4978-9ed4-4317a3ca7bb1" />
 </p>
 
-<h1 align="center">Colton Koop</h1>
-<p align="center">
-  SoC Logic Design Engineer · Hardware Systems Builder
-</p>
-
----
-
 ### 👋 About
 
 I’m a **hardware systems engineer** with a background in **Engineering Physics** and a focus on **SoC logic design**.  
