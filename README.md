@@ -22,10 +22,3 @@ I enjoy building reliable, well-structured hardware — from clean RTL and micro
 I enjoy technical side projects that explore **how theory becomes real hardware**, including:
 - FPGA development environments inspired by ASIC workflows
 - Physics-driven art & engineering builds
-
----
-
-### 🔗 Find Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/coltonkoop/
-- 📧 Email: coltonkoop@gmail.com  
