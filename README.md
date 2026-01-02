@@ -27,7 +27,5 @@ I enjoy technical side projects that explore **how theory becomes real hardware*
 
 ### 🔗 Find Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/coltonkoop/  
-- 🌐 GitHub (personal): https://github.com/ColtonKoop
-- 🌐 GitHub (work): https://github.com/coltonko-intel  
+- 💼 LinkedIn: https://www.linkedin.com/in/coltonkoop/
 - 📧 Email: coltonkoop@gmail.com  
