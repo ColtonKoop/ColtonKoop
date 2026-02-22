@@ -2,7 +2,7 @@
 <img width="3168" height="792" alt="ColtonKoop_LinkedInBanner" src="https://github.com/user-attachments/assets/45bae42c-4100-4978-9ed4-4317a3ca7bb1" />
 </p>
 
-Engineering Physicist turned SoC Logic Design Engineer at Intel. I enjoy working on hardware systems from digital design to electronics, and I like the intersection of theory and implementation. I try to contribute to the teams and communities around me and keep learning from the people I work with.
+Engineering Physicist turned SoC Logic Design Engineer at Intel. I enjoy working on hardware systems from digital design to electronics, and I like the intersection of theory and implementation.
 
 ### Focus:
 - Digital design: micro-architecture and RTL in Verilog/SystemVerilog
